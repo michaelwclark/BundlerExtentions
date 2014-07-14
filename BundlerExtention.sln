@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundlerExtention", "BundlerExtention\BundlerExtention.csproj", "{664F6D00-33AA-4BB3-A223-3C4CA5E86D25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BundlerExtention.Tests", "..\..\BundlerExtention\BundlerExtention.Tests\BundlerExtention.Tests.csproj", "{029A8E56-4D68-4864-830F-C68590545088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664F6D00-33AA-4BB3-A223-3C4CA5E86D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664F6D00-33AA-4BB3-A223-3C4CA5E86D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664F6D00-33AA-4BB3-A223-3C4CA5E86D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664F6D00-33AA-4BB3-A223-3C4CA5E86D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029A8E56-4D68-4864-830F-C68590545088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029A8E56-4D68-4864-830F-C68590545088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029A8E56-4D68-4864-830F-C68590545088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029A8E56-4D68-4864-830F-C68590545088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
